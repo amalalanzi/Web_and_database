@@ -14,6 +14,7 @@ first file (data.html):
 
 It contains HTML and JS code.
  Creates buttons, table, and buttons that send sensor values to the custom database.
+ 
 HTML code: There are two buttons:
 The first is add data to add the value to the table within the site, and the second is save data to send the values to the custom database.
 
