@@ -18,7 +18,7 @@ HTML code: There are two buttons:
 The first is add data to add the value to the table within the site, and the second is save data to send the values to the custom database.
 
 
- JV code: Contains three functions for the table shown on the site page:
+ JS code: Contains three functions for the table shown on the site page:
 - To add the value to this table.
 - To modify the value before saving and sending it to the relevant database.
 -To undo or delete the value from this table and before sending it to the relevant database.
