@@ -33,4 +33,5 @@ When the transmission fails: “Error”.
 
 
 last file (database):
+
 It contains several images to illustrate the website's work, the way it interacts with the user, and how to send the values to the relevant database.
